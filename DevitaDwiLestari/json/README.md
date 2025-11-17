@@ -1,16 +1,18 @@
-# json
+# Tugas Praktikum
 
-A new Flutter project.
+## 📝 Praktikum 1
+Berikut hasil praktikum 1:
+<img src="assets/praktikum1.jpeg" width="500">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 📝 Praktikum 2
+Berikut hasil praktikum 2:
+<img src="assets/praktikum2.jpeg" width="500">
 
-A few resources to get you started if this is your first Flutter project:
+## 📝 Praktikum 3
+Berikut hasil praktikum 3:
+<img src="assets/praktikum3.jpeg" width="500">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📝 Praktikum 7
+Berikut hasil praktikum 7:
+<img src="assets/praktikum7.jpeg" width="500">
